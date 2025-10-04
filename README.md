@@ -38,7 +38,7 @@
 | 微調腳本 |
 | ------- |
 | [Popos Config](https://github.com/samwhelp/popos-adjustment/tree/main/prototype/main) |
-| [Tool Config](https://github.com/samwhelp/popos-adjustment/tree/main/prototype/main/tool-config/part) |
+| [Popos Cosmic Config](https://github.com/samwhelp/popos-cosmic-adjustment/tree/main/prototype/main/cosmic-config/full/Main) |
 
 
 
